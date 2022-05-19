@@ -1,0 +1,292 @@
+[
+  {
+    "id": "e67e7a87-6f2c-4774-a15a-f08da1baee32",
+    "nome": "Davi Lucca Nogueira",
+    "cpf": "853.429.115-24",
+    "valorTotalVenda": 2979.75,
+    "dataVenda": "2022-05-19T09:27:23.3815849-03:00",
+    "dataInclusao": "2022-05-19T09:27:23.3774855-03:00",
+    "dataAlteracao": null,
+    "vendedores": [
+      {
+        "id": "c4595aa9-3c4f-4b75-aae9-671817d73c07",
+        "nome": "Maria Eduarda Moraes",
+        "dataAdmissao": "2024-02-24T23:42:44.8333233-03:00",
+        "salario": 1418.25,
+        "comissao": 1113.74,
+        "dataInclusao": "2022-05-19T09:27:23.3749564-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "bafa6c95-26a2-4350-ab08-c3d862fa8ebc",
+        "nome": "Valentina Reis",
+        "dataAdmissao": "2023-04-18T15:52:49.1427495-03:00",
+        "salario": 1743.44,
+        "comissao": 2953.75,
+        "dataInclusao": "2022-05-19T09:27:23.3750336-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "b09e8343-a83f-4907-b023-ab13cb3b9cc1",
+    "nome": "Marcelo Batista",
+    "cpf": "384.405.977-62",
+    "valorTotalVenda": 1807.34,
+    "dataVenda": "2022-05-19T09:27:23.3834951-03:00",
+    "dataInclusao": "2022-05-19T09:27:23.3834659-03:00",
+    "dataAlteracao": null,
+    "vendedores": [
+      {
+        "id": "f84b83f7-e12b-44eb-88fe-bf9cb4d0dcce",
+        "nome": "Benício Nogueira",
+        "dataAdmissao": "2023-05-03T19:29:23.2993754-03:00",
+        "salario": 1479.97,
+        "comissao": 2328.69,
+        "dataInclusao": "2022-05-19T09:27:23.3833049-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "4b7dd5f4-303a-4d9d-9354-ea881ca86a43",
+        "nome": "Maria Helena Moreira",
+        "dataAdmissao": "2022-11-30T12:58:04.4888848-03:00",
+        "salario": 1210.11,
+        "comissao": 2573.95,
+        "dataInclusao": "2022-05-19T09:27:23.383395-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "0d41dedd-0f32-4507-a43f-b0e3a0b0f6c6",
+    "nome": "Melissa Nogueira",
+    "cpf": "941.889.153-07",
+    "valorTotalVenda": 1529.45,
+    "dataVenda": "2022-05-19T09:27:23.3850723-03:00",
+    "dataInclusao": "2022-05-19T09:27:23.3850561-03:00",
+    "dataAlteracao": null,
+    "vendedores": [
+      {
+        "id": "d3f18b37-c849-4833-adc6-9505dbcacbae",
+        "nome": "João Pedro Carvalho",
+        "dataAdmissao": "2023-05-22T10:08:01.4534429-03:00",
+        "salario": 1616.02,
+        "comissao": 1669.21,
+        "dataInclusao": "2022-05-19T09:27:23.3849113-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "38aedd95-1824-4ffa-bc9c-106a3ae457d3",
+        "nome": "Laura Nogueira",
+        "dataAdmissao": "2022-10-29T05:20:37.3194411-03:00",
+        "salario": 2666.73,
+        "comissao": 1833.18,
+        "dataInclusao": "2022-05-19T09:27:23.3849846-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "d32ae7bb-0725-4e29-aa19-3bf153577ecd",
+    "nome": "Lorena Macedo",
+    "cpf": "990.593.280-19",
+    "valorTotalVenda": 1607.32,
+    "dataVenda": "2022-05-19T09:27:23.3866305-03:00",
+    "dataInclusao": "2022-05-19T09:27:23.3866176-03:00",
+    "dataAlteracao": null,
+    "vendedores": [
+      {
+        "id": "1645eb00-7e3a-4830-a40c-c0c3f692f8e6",
+        "nome": "Esther Nogueira",
+        "dataAdmissao": "2022-05-29T21:31:33.488623-03:00",
+        "salario": 2927.36,
+        "comissao": 2453.16,
+        "dataInclusao": "2022-05-19T09:27:23.3864786-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "808dbcf4-70ca-4691-a145-abcd183bf5f4",
+        "nome": "Larissa Barros",
+        "dataAdmissao": "2024-05-29T02:26:12.4456358-03:00",
+        "salario": 2927.77,
+        "comissao": 1592.1,
+        "dataInclusao": "2022-05-19T09:27:23.3865486-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "5d2cde9c-b357-405d-819f-c3ee46667163",
+    "nome": "Ana Luiza Saraiva",
+    "cpf": "410.681.958-94",
+    "valorTotalVenda": 1131.8,
+    "dataVenda": "2022-05-19T09:27:23.3883294-03:00",
+    "dataInclusao": "2022-05-19T09:27:23.3883226-03:00",
+    "dataAlteracao": null,
+    "vendedores": [
+      {
+        "id": "4363a57e-364d-4a30-b22f-8cbcecac7f6e",
+        "nome": "Sophia Pereira",
+        "dataAdmissao": "2023-01-15T15:39:15.8959343-03:00",
+        "salario": 1931.28,
+        "comissao": 1791.04,
+        "dataInclusao": "2022-05-19T09:27:23.3881404-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "61de05f7-da62-4ad5-aefe-c774ffd8b06c",
+        "nome": "Eduarda Nogueira",
+        "dataAdmissao": "2023-12-29T20:05:49.4336765-03:00",
+        "salario": 1292.58,
+        "comissao": 2908.67,
+        "dataInclusao": "2022-05-19T09:27:23.3882439-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "6caf955e-a166-413e-aa38-0cc3cac2641b",
+    "nome": "Sara Moreira",
+    "cpf": "076.868.568-01",
+    "valorTotalVenda": 2431.81,
+    "dataVenda": "2022-05-19T09:27:23.3901707-03:00",
+    "dataInclusao": "2022-05-19T09:27:23.3901596-03:00",
+    "dataAlteracao": null,
+    "vendedores": [
+      {
+        "id": "ecae9948-f87c-46ae-8928-5a7d40f18a05",
+        "nome": "Davi Batista",
+        "dataAdmissao": "2024-02-11T21:40:55.4553222-03:00",
+        "salario": 2642.58,
+        "comissao": 2539.88,
+        "dataInclusao": "2022-05-19T09:27:23.3899817-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "8c921833-438c-4e7a-8b85-6a5029e2eda1",
+        "nome": "Hugo Moreira",
+        "dataAdmissao": "2023-02-01T19:35:34.9331384-03:00",
+        "salario": 1591.26,
+        "comissao": 2523.02,
+        "dataInclusao": "2022-05-19T09:27:23.3900754-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "a50762c5-e3bb-4083-9c6a-c7d4c7215ef3",
+    "nome": "Pablo Xavier",
+    "cpf": "537.692.895-01",
+    "valorTotalVenda": 2937.75,
+    "dataVenda": "2022-05-19T09:27:23.3923202-03:00",
+    "dataInclusao": "2022-05-19T09:27:23.3922937-03:00",
+    "dataAlteracao": null,
+    "vendedores": [
+      {
+        "id": "93bb36d3-65f5-4160-a63d-628b524778c5",
+        "nome": "Roberto Oliveira",
+        "dataAdmissao": "2024-04-20T07:55:21.1998229-03:00",
+        "salario": 1478.96,
+        "comissao": 2909.76,
+        "dataInclusao": "2022-05-19T09:27:23.3919603-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "64efb026-594a-400e-9e8f-7422708ae0ff",
+        "nome": "Fabrícia Barros",
+        "dataAdmissao": "2023-12-01T01:17:18.3486077-03:00",
+        "salario": 1280.61,
+        "comissao": 2236.41,
+        "dataInclusao": "2022-05-19T09:27:23.3921437-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "26679629-7f5d-4f85-8dc1-bc5935daf910",
+    "nome": "Tertuliano Oliveira",
+    "cpf": "072.582.925-78",
+    "valorTotalVenda": 1395.81,
+    "dataVenda": "2022-05-19T09:27:23.3953316-03:00",
+    "dataInclusao": "2022-05-19T09:27:23.3953216-03:00",
+    "dataAlteracao": null,
+    "vendedores": [
+      {
+        "id": "06927433-1f4e-4547-88b0-c0f48bc05bdf",
+        "nome": "Hugo Macedo",
+        "dataAdmissao": "2023-05-03T08:22:39.7084123-03:00",
+        "salario": 1188.59,
+        "comissao": 1881.04,
+        "dataInclusao": "2022-05-19T09:27:23.3950525-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "94056e31-faa4-40c4-99b2-67b513b9522a",
+        "nome": "Maria Clara Oliveira",
+        "dataAdmissao": "2023-10-02T10:34:40.7131882-03:00",
+        "salario": 2340.42,
+        "comissao": 2056.7,
+        "dataInclusao": "2022-05-19T09:27:23.395193-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "79e61391-ccc7-4b72-87f4-2f56ea97fb73",
+    "nome": "Heloísa Macedo",
+    "cpf": "333.164.188-06",
+    "valorTotalVenda": 1673.12,
+    "dataVenda": "2022-05-19T09:27:23.3979065-03:00",
+    "dataInclusao": "2022-05-19T09:27:23.3978957-03:00",
+    "dataAlteracao": null,
+    "vendedores": [
+      {
+        "id": "b6841989-e86b-47ca-8973-2a24f3c11aa1",
+        "nome": "Esther Barros",
+        "dataAdmissao": "2023-04-20T06:53:15.4844927-03:00",
+        "salario": 2702.07,
+        "comissao": 2874.85,
+        "dataInclusao": "2022-05-19T09:27:23.3976422-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "992cd018-e61a-4cc7-9d4b-9aca25e3752d",
+        "nome": "Calebe Albuquerque",
+        "dataAdmissao": "2022-05-28T23:58:07.3095962-03:00",
+        "salario": 1827.2,
+        "comissao": 959.83,
+        "dataInclusao": "2022-05-19T09:27:23.3977727-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "e68cf737-33a5-4d85-86c6-a8d9ea12b1e0",
+    "nome": "Carla Oliveira",
+    "cpf": "638.001.382-20",
+    "valorTotalVenda": 1668.66,
+    "dataVenda": "2022-05-19T09:27:23.4006526-03:00",
+    "dataInclusao": "2022-05-19T09:27:23.4006423-03:00",
+    "dataAlteracao": null,
+    "vendedores": [
+      {
+        "id": "ed7b3550-313a-4eef-9990-0a36a104fc94",
+        "nome": "César Saraiva",
+        "dataAdmissao": "2024-05-25T22:03:55.7357581-03:00",
+        "salario": 2981.03,
+        "comissao": 2639.87,
+        "dataInclusao": "2022-05-19T09:27:23.4003735-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "187a96fc-e8b1-4f28-9987-2cf8aefa44ba",
+        "nome": "Giovanna Franco",
+        "dataAdmissao": "2024-04-11T06:05:29.2951804-03:00",
+        "salario": 2114.7,
+        "comissao": 1447.18,
+        "dataInclusao": "2022-05-19T09:27:23.4005098-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  }
+]

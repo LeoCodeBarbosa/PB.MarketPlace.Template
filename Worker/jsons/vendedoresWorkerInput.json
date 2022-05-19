@@ -1,0 +1,292 @@
+[
+  {
+    "id": "cd03aa57-6bf2-4933-b326-33ff99190db9",
+    "nome": "Fábio Pereira",
+    "dataAdmissao": "2023-07-16T23:23:05.962777-03:00",
+    "salario": 1607.04,
+    "comissao": 2662.3,
+    "dataInclusao": "2022-05-19T09:27:23.2895272-03:00",
+    "dataAlteracao": null,
+    "fornecedores": [
+      {
+        "id": "e779ceff-88ff-4fbc-a994-b4cb952844c6",
+        "nome": "Costa - Braga",
+        "nomeProduto": "Pizza",
+        "dataAberturaEmpresa": "2022-06-09T18:05:31.4268697-03:00",
+        "valorProduto": 1555.31,
+        "dataInclusao": "2022-05-19T09:27:23.2890188-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "eff6a81d-52dc-4edd-b660-493f4d5692dd",
+        "nome": "Silva, Santos and Franco",
+        "nomeProduto": "Pizza",
+        "dataAberturaEmpresa": "2024-06-17T12:17:07.239687-03:00",
+        "valorProduto": 2370.41,
+        "dataInclusao": "2022-05-19T09:27:23.2892872-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "2ea5bf70-d4cc-4c7a-b014-56d69a764f7e",
+    "nome": "Raul Martins",
+    "dataAdmissao": "2024-02-03T16:26:25.6374131-03:00",
+    "salario": 2752.14,
+    "comissao": 1591.03,
+    "dataInclusao": "2022-05-19T09:27:23.291497-03:00",
+    "dataAlteracao": null,
+    "fornecedores": [
+      {
+        "id": "9abf2421-7962-4635-9e5b-82e7b502721f",
+        "nome": "Martins, Pereira and Reis",
+        "nomeProduto": "Atum",
+        "dataAberturaEmpresa": "2022-12-10T22:13:23.8321683-03:00",
+        "valorProduto": 2459.51,
+        "dataInclusao": "2022-05-19T09:27:23.2913751-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "26c62c45-3e22-4cdf-9a06-80fcf5989a18",
+        "nome": "Batista LTDA",
+        "nomeProduto": "Queijo",
+        "dataAberturaEmpresa": "2023-04-04T18:34:29.756369-03:00",
+        "valorProduto": 2715.37,
+        "dataInclusao": "2022-05-19T09:27:23.2913963-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "922d3474-5f1d-4353-bf81-0403bf862669",
+    "nome": "Janaína Albuquerque",
+    "dataAdmissao": "2022-11-27T23:37:05.2240459-03:00",
+    "salario": 1343.86,
+    "comissao": 2779.8,
+    "dataInclusao": "2022-05-19T09:27:23.2939114-03:00",
+    "dataAlteracao": null,
+    "fornecedores": [
+      {
+        "id": "c5551621-708f-4b03-a19b-9a9b22ca070e",
+        "nome": "Silva - Melo",
+        "nomeProduto": "Computador",
+        "dataAberturaEmpresa": "2024-01-20T14:04:19.2914995-03:00",
+        "valorProduto": 2479.15,
+        "dataInclusao": "2022-05-19T09:27:23.2937044-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "3b10b4c9-f305-4691-a63e-df94fc5f82a4",
+        "nome": "Costa, Reis and Albuquerque",
+        "nomeProduto": "Salgadinhos",
+        "dataAberturaEmpresa": "2022-11-03T08:27:04.6934589-03:00",
+        "valorProduto": 2800.11,
+        "dataInclusao": "2022-05-19T09:27:23.2937479-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "6cc1b4ad-31b7-4fe3-924d-9549037c202d",
+    "nome": "Murilo Martins",
+    "dataAdmissao": "2023-12-16T22:42:57.2778269-03:00",
+    "salario": 2764.64,
+    "comissao": 1891.02,
+    "dataInclusao": "2022-05-19T09:27:23.2965227-03:00",
+    "dataAlteracao": null,
+    "fornecedores": [
+      {
+        "id": "57069c0d-7abd-480c-b154-298009ae22ed",
+        "nome": "Souza - Martins",
+        "nomeProduto": "Carro",
+        "dataAberturaEmpresa": "2024-02-05T15:29:47.1800135-03:00",
+        "valorProduto": 2161.6,
+        "dataInclusao": "2022-05-19T09:27:23.2963707-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "b286e2f0-357f-463f-b8f0-826ceecf22dc",
+        "nome": "Souza - Carvalho",
+        "nomeProduto": "Mouse",
+        "dataAberturaEmpresa": "2023-09-13T07:33:01.7028698-03:00",
+        "valorProduto": 2581.18,
+        "dataInclusao": "2022-05-19T09:27:23.2963933-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "1c277552-41c3-4114-9c3b-af8311ba8ea9",
+    "nome": "Júlia Nogueira",
+    "dataAdmissao": "2023-07-04T00:53:24.9623522-03:00",
+    "salario": 1556.55,
+    "comissao": 2645.67,
+    "dataInclusao": "2022-05-19T09:27:23.3007098-03:00",
+    "dataAlteracao": null,
+    "fornecedores": [
+      {
+        "id": "cd84e965-d704-4f19-9052-3b2ef48d08f0",
+        "nome": "Martins e Associados",
+        "nomeProduto": "Frango",
+        "dataAberturaEmpresa": "2022-10-12T00:56:58.5060405-03:00",
+        "valorProduto": 1665.72,
+        "dataInclusao": "2022-05-19T09:27:23.3005528-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "bc7e80aa-9189-4305-a7fa-22d6f65ca428",
+        "nome": "Pereira, Barros and Silva",
+        "nomeProduto": "Mouse",
+        "dataAberturaEmpresa": "2022-08-26T12:30:01.2055404-03:00",
+        "valorProduto": 2667.02,
+        "dataInclusao": "2022-05-19T09:27:23.3005778-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "151b7962-858e-4a91-8b3b-844dabd66995",
+    "nome": "César Reis",
+    "dataAdmissao": "2022-07-26T11:27:09.8960404-03:00",
+    "salario": 2829.66,
+    "comissao": 2474.44,
+    "dataInclusao": "2022-05-19T09:27:23.3023877-03:00",
+    "dataAlteracao": null,
+    "fornecedores": [
+      {
+        "id": "b42e44f3-dda4-44be-8948-902ae279ea76",
+        "nome": "Saraiva, Xavier and Albuquerque",
+        "nomeProduto": "Computador",
+        "dataAberturaEmpresa": "2022-07-24T10:14:10.1446948-03:00",
+        "valorProduto": 2993.37,
+        "dataInclusao": "2022-05-19T09:27:23.3022215-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "9d28f1f5-664c-4e9a-a8b3-e13046630d36",
+        "nome": "Reis, Batista and Santos",
+        "nomeProduto": "Calças",
+        "dataAberturaEmpresa": "2022-10-11T01:27:11.6933568-03:00",
+        "valorProduto": 2201.65,
+        "dataInclusao": "2022-05-19T09:27:23.3022519-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "92bd15c2-9ed5-4daa-a697-6e67b281a919",
+    "nome": "Cecília Franco",
+    "dataAdmissao": "2022-09-20T03:29:14.7405639-03:00",
+    "salario": 2569.97,
+    "comissao": 1111.95,
+    "dataInclusao": "2022-05-19T09:27:23.304192-03:00",
+    "dataAlteracao": null,
+    "fornecedores": [
+      {
+        "id": "0009ae81-0438-47d0-8f9a-979ddb087f9f",
+        "nome": "Martins - Santos",
+        "nomeProduto": "Salsicha",
+        "dataAberturaEmpresa": "2022-07-12T12:24:36.5265429-03:00",
+        "valorProduto": 2195.06,
+        "dataInclusao": "2022-05-19T09:27:23.3040657-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "43121123-d65c-4f4a-aea6-0c0242a597e9",
+        "nome": "Xavier, Moraes and Batista",
+        "nomeProduto": "Calças",
+        "dataAberturaEmpresa": "2023-04-18T08:49:33.0417684-03:00",
+        "valorProduto": 1292.44,
+        "dataInclusao": "2022-05-19T09:27:23.3040881-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "91438f0c-8e5d-4382-ac66-f9968eaaf318",
+    "nome": "Benjamin Albuquerque",
+    "dataAdmissao": "2023-07-08T19:14:37.8716483-03:00",
+    "salario": 2672.61,
+    "comissao": 2121.5,
+    "dataInclusao": "2022-05-19T09:27:23.3057551-03:00",
+    "dataAlteracao": null,
+    "fornecedores": [
+      {
+        "id": "8fcaeff9-1c39-418e-a1a0-78ef78319485",
+        "nome": "Souza, Santos and Albuquerque",
+        "nomeProduto": "Queijo",
+        "dataAberturaEmpresa": "2023-02-13T21:50:11.7869164-03:00",
+        "valorProduto": 1364.92,
+        "dataInclusao": "2022-05-19T09:27:23.3056429-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "874cce31-1bad-43d0-b0d8-0c3c6d504bdf",
+        "nome": "Souza - Carvalho",
+        "nomeProduto": "Calças",
+        "dataAberturaEmpresa": "2023-06-10T06:27:18.3987808-03:00",
+        "valorProduto": 1999.12,
+        "dataInclusao": "2022-05-19T09:27:23.3056589-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "e0b40852-21fb-43e8-a471-42078cd0264b",
+    "nome": "Calebe Saraiva",
+    "dataAdmissao": "2022-09-19T20:14:21.8346589-03:00",
+    "salario": 2102.58,
+    "comissao": 1257.96,
+    "dataInclusao": "2022-05-19T09:27:23.3073545-03:00",
+    "dataAlteracao": null,
+    "fornecedores": [
+      {
+        "id": "39d2ac8d-81a0-4a7d-8ce5-7d95dd655087",
+        "nome": "Macedo S.A.",
+        "nomeProduto": "Peixe",
+        "dataAberturaEmpresa": "2022-07-14T05:50:57.7230236-03:00",
+        "valorProduto": 2439.49,
+        "dataInclusao": "2022-05-19T09:27:23.3072305-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "188df1bf-4843-42d3-ad98-8202a2a8cb63",
+        "nome": "Martins, Franco and Melo",
+        "nomeProduto": "Queijo",
+        "dataAberturaEmpresa": "2023-10-21T04:24:20.047836-03:00",
+        "valorProduto": 1610.42,
+        "dataInclusao": "2022-05-19T09:27:23.3072539-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "383cab97-d153-4c58-b5ac-9b17b28897cb",
+    "nome": "Larissa Franco",
+    "dataAdmissao": "2024-01-22T00:37:11.4112986-03:00",
+    "salario": 1311.26,
+    "comissao": 2874.91,
+    "dataInclusao": "2022-05-19T09:27:23.3095341-03:00",
+    "dataAlteracao": null,
+    "fornecedores": [
+      {
+        "id": "98d67c9d-0dc0-4aa8-bb56-a820562f1b68",
+        "nome": "Moraes - Pereira",
+        "nomeProduto": "Bola",
+        "dataAberturaEmpresa": "2023-10-19T17:33:25.884242-03:00",
+        "valorProduto": 2206.13,
+        "dataInclusao": "2022-05-19T09:27:23.3093525-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "372de2c6-c006-4381-8f12-3bfc65cb6a10",
+        "nome": "Moreira - Batista",
+        "nomeProduto": "Frango",
+        "dataAberturaEmpresa": "2023-01-24T04:13:19.7295872-03:00",
+        "valorProduto": 2871.43,
+        "dataInclusao": "2022-05-19T09:27:23.3093825-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  }
+]

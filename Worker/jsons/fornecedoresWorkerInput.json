@@ -1,0 +1,292 @@
+[
+  {
+    "id": "c266f81d-1c4c-4850-89da-f1fab041a862",
+    "nome": "Albuquerque EIRELI",
+    "nomeProduto": "Camiseta",
+    "dataAberturaEmpresa": "2022-10-21T15:05:51.3844762-03:00",
+    "valorProduto": 2971.65,
+    "dataInclusao": "2022-05-19T09:27:23.3415301-03:00",
+    "dataAlteracao": null,
+    "gerentes": [
+      {
+        "id": "c27c8292-6f9d-4693-94f0-47b03390705f",
+        "nome": "Lorraine Carvalho",
+        "dataAdmissao": "2022-11-29T23:04:09.7226941-03:00",
+        "salario": 1076.52,
+        "bonus": 2305.78,
+        "dataInclusao": "2022-05-19T09:27:23.3413705-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "ccc2dec6-cbc5-480b-a429-12099a9d3e8c",
+        "nome": "Sirineu Carvalho",
+        "dataAdmissao": "2024-03-24T14:26:04.3253713-03:00",
+        "salario": 1426.48,
+        "bonus": 1140.69,
+        "dataInclusao": "2022-05-19T09:27:23.3414567-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "4d505bb1-323b-4490-b269-c69571b14c04",
+    "nome": "Silva - Nogueira",
+    "nomeProduto": "Salsicha",
+    "dataAberturaEmpresa": "2022-09-18T23:17:06.79451-03:00",
+    "valorProduto": 2554.51,
+    "dataInclusao": "2022-05-19T09:27:23.3441361-03:00",
+    "dataAlteracao": null,
+    "gerentes": [
+      {
+        "id": "89cd238f-337e-4ec9-90f1-2c67f1a52d62",
+        "nome": "Benício Souza",
+        "dataAdmissao": "2023-09-07T09:07:24.1585997-03:00",
+        "salario": 2997.36,
+        "bonus": 2214.47,
+        "dataInclusao": "2022-05-19T09:27:23.3439676-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "2156e1b8-e4fc-4582-bc3b-c2340c95cb4c",
+        "nome": "Cecília Braga",
+        "dataAdmissao": "2023-10-31T21:58:27.0264789-03:00",
+        "salario": 2144.86,
+        "bonus": 2006.74,
+        "dataInclusao": "2022-05-19T09:27:23.3441097-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "63d79a58-4cb6-4a4f-9dc0-f7677faab560",
+    "nome": "Braga Comércio",
+    "nomeProduto": "Bacon",
+    "dataAberturaEmpresa": "2024-05-12T18:17:54.0607797-03:00",
+    "valorProduto": 2583.38,
+    "dataInclusao": "2022-05-19T09:27:23.347397-03:00",
+    "dataAlteracao": null,
+    "gerentes": [
+      {
+        "id": "1cc7dd83-dd18-4a34-87d5-a3be21d380fd",
+        "nome": "Lara Silva",
+        "dataAdmissao": "2022-06-27T19:14:34.2174649-03:00",
+        "salario": 1433.03,
+        "bonus": 2790.46,
+        "dataInclusao": "2022-05-19T09:27:23.3472256-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "b3583b89-734e-4d3c-8a52-70014211c45c",
+        "nome": "Isabel Barros",
+        "dataAdmissao": "2023-07-13T16:51:11.7579275-03:00",
+        "salario": 2351.93,
+        "bonus": 2989.16,
+        "dataInclusao": "2022-05-19T09:27:23.3473695-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "a6626ec7-f557-4adf-a99c-257d25465b2f",
+    "nome": "Silva - Moraes",
+    "nomeProduto": "Calças",
+    "dataAberturaEmpresa": "2024-04-10T05:52:12.3621766-03:00",
+    "valorProduto": 1277.26,
+    "dataInclusao": "2022-05-19T09:27:23.3514967-03:00",
+    "dataAlteracao": null,
+    "gerentes": [
+      {
+        "id": "52f566ca-9baf-4441-bae7-a5ea2f4bb625",
+        "nome": "Sara Santos",
+        "dataAdmissao": "2023-03-26T02:10:11.1690376-03:00",
+        "salario": 2405.88,
+        "bonus": 2032.11,
+        "dataInclusao": "2022-05-19T09:27:23.3514075-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "e3a57548-5d58-4316-8c10-759430f3afe5",
+        "nome": "Laura Oliveira",
+        "dataAdmissao": "2023-03-04T08:06:11.4324254-03:00",
+        "salario": 2338.59,
+        "bonus": 2094.67,
+        "dataInclusao": "2022-05-19T09:27:23.3514856-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "4b734f43-b2a0-4ddf-8b89-3aaf1a21637f",
+    "nome": "Batista - Martins",
+    "nomeProduto": "Sapatos",
+    "dataAberturaEmpresa": "2023-11-12T01:02:58.122388-03:00",
+    "valorProduto": 2652.7,
+    "dataInclusao": "2022-05-19T09:27:23.3528906-03:00",
+    "dataAlteracao": null,
+    "gerentes": [
+      {
+        "id": "cc5d4cc1-1f65-4a67-b115-38d2b5ad8e8b",
+        "nome": "Eduarda Melo",
+        "dataAdmissao": "2024-03-12T14:45:14.9216737-03:00",
+        "salario": 2900.16,
+        "bonus": 1032.89,
+        "dataInclusao": "2022-05-19T09:27:23.3528103-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "5b6c95d5-7a55-4e5f-aadb-e3507f5830f0",
+        "nome": "Marli Moreira",
+        "dataAdmissao": "2023-01-14T13:27:01.6000638-03:00",
+        "salario": 1049.39,
+        "bonus": 1041.74,
+        "dataInclusao": "2022-05-19T09:27:23.3528792-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "0310a23f-0ffd-42f5-be6d-8affdc06dbf7",
+    "nome": "Macedo, Moreira and Albuquerque",
+    "nomeProduto": "Frango",
+    "dataAberturaEmpresa": "2023-01-10T06:12:38.5239872-03:00",
+    "valorProduto": 2596.27,
+    "dataInclusao": "2022-05-19T09:27:23.3548395-03:00",
+    "dataAlteracao": null,
+    "gerentes": [
+      {
+        "id": "6f893d0c-be43-4feb-88b3-874bcbe79b66",
+        "nome": "Isis Franco",
+        "dataAdmissao": "2022-07-07T14:15:34.929418-03:00",
+        "salario": 976.97,
+        "bonus": 1883.49,
+        "dataInclusao": "2022-05-19T09:27:23.3546817-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "5106d378-0eb9-46c8-973b-a1321a4ae899",
+        "nome": "Enzo Gabriel Saraiva",
+        "dataAdmissao": "2024-05-30T18:55:03.9472291-03:00",
+        "salario": 1658.33,
+        "bonus": 2450.95,
+        "dataInclusao": "2022-05-19T09:27:23.3548118-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "7253dd52-5cc6-4b97-85ca-98cd4da3c189",
+    "nome": "Xavier LTDA",
+    "nomeProduto": "Pizza",
+    "dataAberturaEmpresa": "2023-01-30T07:48:01.9357099-03:00",
+    "valorProduto": 965.2,
+    "dataInclusao": "2022-05-19T09:27:23.3570081-03:00",
+    "dataAlteracao": null,
+    "gerentes": [
+      {
+        "id": "a65b70af-1a7b-47eb-a50d-b0df03602f29",
+        "nome": "Anthony Souza",
+        "dataAdmissao": "2022-06-25T18:06:31.4565531-03:00",
+        "salario": 1275.61,
+        "bonus": 2311.66,
+        "dataInclusao": "2022-05-19T09:27:23.356848-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "7b860ee1-edfc-4d99-b424-028df4adf822",
+        "nome": "Lívia Oliveira",
+        "dataAdmissao": "2023-07-13T08:56:33.1108968-03:00",
+        "salario": 2213.68,
+        "bonus": 2564.07,
+        "dataInclusao": "2022-05-19T09:27:23.3569867-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "ec6bbecb-aacc-4eeb-8758-3fb031b273e5",
+    "nome": "Albuquerque, Albuquerque and Braga",
+    "nomeProduto": "Salada",
+    "dataAberturaEmpresa": "2023-03-28T23:08:28.2819375-03:00",
+    "valorProduto": 2178.63,
+    "dataInclusao": "2022-05-19T09:27:23.3675162-03:00",
+    "dataAlteracao": null,
+    "gerentes": [
+      {
+        "id": "bd2e202e-7296-4330-94b9-a1f8eabe4182",
+        "nome": "Murilo Xavier",
+        "dataAdmissao": "2023-03-07T11:49:44.9956013-03:00",
+        "salario": 1372.63,
+        "bonus": 2826.39,
+        "dataInclusao": "2022-05-19T09:27:23.3662882-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "3dd5c31a-ddd0-4a4d-8429-311e2c0490f4",
+        "nome": "Natália Souza",
+        "dataAdmissao": "2022-07-14T22:15:19.4682655-03:00",
+        "salario": 1538.66,
+        "bonus": 1194.74,
+        "dataInclusao": "2022-05-19T09:27:23.3674883-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "ee7653e0-ce6c-4e84-8fe1-3b9f477672c3",
+    "nome": "Albuquerque - Macedo",
+    "nomeProduto": "Bicicleta",
+    "dataAberturaEmpresa": "2023-04-19T09:48:29.5584587-03:00",
+    "valorProduto": 1730.96,
+    "dataInclusao": "2022-05-19T09:27:23.3692686-03:00",
+    "dataAlteracao": null,
+    "gerentes": [
+      {
+        "id": "9117da6f-302c-4b2e-834f-f40fbd4805d8",
+        "nome": "Fabiano Moreira",
+        "dataAdmissao": "2023-02-28T16:02:47.7719519-03:00",
+        "salario": 1109.29,
+        "bonus": 2159.82,
+        "dataInclusao": "2022-05-19T09:27:23.3691804-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "cce4a4bf-4cfa-4de5-a4c4-282fcdbdbe8a",
+        "nome": "Gael Braga",
+        "dataAdmissao": "2022-10-06T03:25:24.0409869-03:00",
+        "salario": 1064.11,
+        "bonus": 2799.89,
+        "dataInclusao": "2022-05-19T09:27:23.3692569-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  },
+  {
+    "id": "8e26aaac-c763-4c42-bfc7-61c52a3206fb",
+    "nome": "Xavier S.A.",
+    "nomeProduto": "Computador",
+    "dataAberturaEmpresa": "2024-05-18T12:32:51.5860648-03:00",
+    "valorProduto": 2254.94,
+    "dataInclusao": "2022-05-19T09:27:23.3716255-03:00",
+    "dataAlteracao": null,
+    "gerentes": [
+      {
+        "id": "8389a229-c032-4daf-afd3-eaf5127100e1",
+        "nome": "Eduarda Silva",
+        "dataAdmissao": "2022-08-13T01:52:59.6226448-03:00",
+        "salario": 2247.62,
+        "bonus": 2035.2,
+        "dataInclusao": "2022-05-19T09:27:23.371538-03:00",
+        "dataAlteracao": null
+      },
+      {
+        "id": "586e91cf-a3c4-4aed-88e9-332be63f0a1e",
+        "nome": "Benjamin Moraes",
+        "dataAdmissao": "2023-05-11T11:31:51.8729286-03:00",
+        "salario": 972.08,
+        "bonus": 2836.58,
+        "dataInclusao": "2022-05-19T09:27:23.3716117-03:00",
+        "dataAlteracao": null
+      }
+    ]
+  }
+]
