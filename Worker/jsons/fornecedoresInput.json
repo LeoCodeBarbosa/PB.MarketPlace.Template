@@ -1,0 +1,302 @@
+[
+  {
+    "nome": "Carla Saraiva",
+    "dataAdmissao": "2023-07-10T00:27:09.1059651-03:00",
+    "salario": 2561.88,
+    "comissao": 2784.17
+  },
+  {
+    "nome": "Calebe Oliveira",
+    "dataAdmissao": "2023-05-26T01:16:50.0846208-03:00",
+    "salario": 2169.64,
+    "comissao": 1174.5
+  },
+  {
+    "nome": "Lara Franco",
+    "dataAdmissao": "2022-08-05T13:18:48.7511338-03:00",
+    "salario": 1112.65,
+    "comissao": 1285.17
+  },
+  {
+    "nome": "Liz Franco",
+    "dataAdmissao": "2024-03-10T11:36:50.8837989-03:00",
+    "salario": 1921.39,
+    "comissao": 922.69
+  },
+  {
+    "nome": "Lavínia Braga",
+    "dataAdmissao": "2024-01-18T21:53:47.6491069-03:00",
+    "salario": 2306.42,
+    "comissao": 2991.02
+  },
+  {
+    "nome": "Salvador Nogueira",
+    "dataAdmissao": "2024-03-25T16:36:41.9838229-03:00",
+    "salario": 2981.71,
+    "comissao": 1328.47
+  },
+  {
+    "nome": "Maria Costa",
+    "dataAdmissao": "2024-04-29T17:18:55.3382025-03:00",
+    "salario": 1880.87,
+    "comissao": 2694.52
+  },
+  {
+    "nome": "Ana Júlia Santos",
+    "dataAdmissao": "2023-10-23T10:13:53.9604691-03:00",
+    "salario": 1521.73,
+    "comissao": 1216.61
+  },
+  {
+    "nome": "Hélio Braga",
+    "dataAdmissao": "2022-09-02T12:18:53.7970669-03:00",
+    "salario": 2397.32,
+    "comissao": 1944.79
+  },
+  {
+    "nome": "Alexandre Santos",
+    "dataAdmissao": "2024-05-21T17:15:41.3919235-03:00",
+    "salario": 2892.18,
+    "comissao": 1351.88
+  },
+  {
+    "nome": "Marcelo Santos",
+    "dataAdmissao": "2022-08-07T15:23:42.9214476-03:00",
+    "salario": 2317.11,
+    "comissao": 2340.39
+  },
+  {
+    "nome": "Margarida Xavier",
+    "dataAdmissao": "2023-05-07T23:06:08.2009677-03:00",
+    "salario": 1355.15,
+    "comissao": 1111.42
+  },
+  {
+    "nome": "Benjamin Braga",
+    "dataAdmissao": "2023-09-05T18:21:18.1831195-03:00",
+    "salario": 1697.94,
+    "comissao": 1882.31
+  },
+  {
+    "nome": "Fabrício Macedo",
+    "dataAdmissao": "2022-07-31T05:48:48.9296422-03:00",
+    "salario": 1232.2,
+    "comissao": 1954.32
+  },
+  {
+    "nome": "Arthur Nogueira",
+    "dataAdmissao": "2023-07-13T05:24:29.9877522-03:00",
+    "salario": 1230.13,
+    "comissao": 1141.4
+  },
+  {
+    "nome": "Meire Carvalho",
+    "dataAdmissao": "2023-06-30T03:02:43.8121486-03:00",
+    "salario": 2692.06,
+    "comissao": 2796.24
+  },
+  {
+    "nome": "Samuel Barros",
+    "dataAdmissao": "2023-07-15T19:05:59.3014099-03:00",
+    "salario": 2453.24,
+    "comissao": 1875.91
+  },
+  {
+    "nome": "Giovanna Reis",
+    "dataAdmissao": "2022-12-31T01:22:03.1414003-03:00",
+    "salario": 2654.31,
+    "comissao": 1324.85
+  },
+  {
+    "nome": "Benício Moreira",
+    "dataAdmissao": "2023-07-09T17:40:50.6352214-03:00",
+    "salario": 1022.31,
+    "comissao": 1031.08
+  },
+  {
+    "nome": "Lívia Saraiva",
+    "dataAdmissao": "2022-09-01T15:55:47.7554899-03:00",
+    "salario": 2249.95,
+    "comissao": 1517.43
+  },
+  {
+    "nome": "Marcos Silva",
+    "dataAdmissao": "2023-07-04T16:14:42.7381712-03:00",
+    "salario": 2697.3,
+    "comissao": 2946.85
+  },
+  {
+    "nome": "Henrique Carvalho",
+    "dataAdmissao": "2022-11-17T15:46:23.0813485-03:00",
+    "salario": 2353.56,
+    "comissao": 2337.3
+  },
+  {
+    "nome": "Ana Luiza Franco",
+    "dataAdmissao": "2023-11-09T22:04:07.5370065-03:00",
+    "salario": 2738.02,
+    "comissao": 2553.02
+  },
+  {
+    "nome": "Maria Eduarda Souza",
+    "dataAdmissao": "2022-10-12T07:50:03.7245937-03:00",
+    "salario": 1717.48,
+    "comissao": 2513.75
+  },
+  {
+    "nome": "Leonardo Braga",
+    "dataAdmissao": "2022-05-30T06:51:06.2072113-03:00",
+    "salario": 2614.83,
+    "comissao": 1992.5
+  },
+  {
+    "nome": "Sophia Macedo",
+    "dataAdmissao": "2023-04-21T11:36:49.9954475-03:00",
+    "salario": 1094.88,
+    "comissao": 1643.72
+  },
+  {
+    "nome": "Maria Luiza Batista",
+    "dataAdmissao": "2023-03-19T07:07:15.9182401-03:00",
+    "salario": 2501.09,
+    "comissao": 2464.2
+  },
+  {
+    "nome": "Antonella Macedo",
+    "dataAdmissao": "2022-07-18T20:53:18.0928739-03:00",
+    "salario": 1284.75,
+    "comissao": 2201.66
+  },
+  {
+    "nome": "Bruna Barros",
+    "dataAdmissao": "2024-03-08T01:18:39.1774631-03:00",
+    "salario": 2423.23,
+    "comissao": 1502.13
+  },
+  {
+    "nome": "Yango Franco",
+    "dataAdmissao": "2024-05-10T15:49:26.3851669-03:00",
+    "salario": 1472.18,
+    "comissao": 2804.43
+  },
+  {
+    "nome": "Pedro Henrique Santos",
+    "dataAdmissao": "2024-03-22T04:51:38.2934781-03:00",
+    "salario": 2673.55,
+    "comissao": 2851.08
+  },
+  {
+    "nome": "Nicolas Melo",
+    "dataAdmissao": "2023-11-19T01:37:05.3672733-03:00",
+    "salario": 2424.24,
+    "comissao": 1748.19
+  },
+  {
+    "nome": "Maria Cecília Braga",
+    "dataAdmissao": "2023-01-05T08:55:29.3212377-03:00",
+    "salario": 2492.63,
+    "comissao": 1395.78
+  },
+  {
+    "nome": "Helena Moraes",
+    "dataAdmissao": "2023-07-16T04:15:46.2584312-03:00",
+    "salario": 1614.2,
+    "comissao": 1542.82
+  },
+  {
+    "nome": "Célia Macedo",
+    "dataAdmissao": "2022-12-28T02:33:32.7309493-03:00",
+    "salario": 2223.76,
+    "comissao": 2438.47
+  },
+  {
+    "nome": "Yago Macedo",
+    "dataAdmissao": "2024-02-09T20:49:36.2471186-03:00",
+    "salario": 1883.25,
+    "comissao": 2452.77
+  },
+  {
+    "nome": "Janaína Souza",
+    "dataAdmissao": "2024-06-02T01:55:39.1967535-03:00",
+    "salario": 1766.86,
+    "comissao": 2175.21
+  },
+  {
+    "nome": "Fabrício Barros",
+    "dataAdmissao": "2023-02-21T15:58:47.2084693-03:00",
+    "salario": 2584.77,
+    "comissao": 2676.07
+  },
+  {
+    "nome": "Sarah Moreira",
+    "dataAdmissao": "2024-02-11T01:56:29.5376303-03:00",
+    "salario": 1252.85,
+    "comissao": 1979.75
+  },
+  {
+    "nome": "Daniel Pereira",
+    "dataAdmissao": "2024-03-08T06:32:49.8001335-03:00",
+    "salario": 2634.77,
+    "comissao": 1691.15
+  },
+  {
+    "nome": "Lívia Souza",
+    "dataAdmissao": "2023-04-28T22:23:57.8150044-03:00",
+    "salario": 2756.65,
+    "comissao": 2233.04
+  },
+  {
+    "nome": "Fabrícia Costa",
+    "dataAdmissao": "2024-05-21T02:21:20.8509943-03:00",
+    "salario": 2265.95,
+    "comissao": 1970.66
+  },
+  {
+    "nome": "Tertuliano Moraes",
+    "dataAdmissao": "2022-08-28T21:25:51.3117705-03:00",
+    "salario": 1117.86,
+    "comissao": 2918.3
+  },
+  {
+    "nome": "Anthony Carvalho",
+    "dataAdmissao": "2022-09-21T21:26:44.802688-03:00",
+    "salario": 2795.92,
+    "comissao": 2508.01
+  },
+  {
+    "nome": "Salvador Batista",
+    "dataAdmissao": "2023-08-07T14:03:56.5793613-03:00",
+    "salario": 1051.96,
+    "comissao": 2196.41
+  },
+  {
+    "nome": "Roberta Carvalho",
+    "dataAdmissao": "2024-04-01T15:59:17.3846985-03:00",
+    "salario": 2408.23,
+    "comissao": 1034.41
+  },
+  {
+    "nome": "Feliciano Souza",
+    "dataAdmissao": "2023-07-29T09:42:38.8121358-03:00",
+    "salario": 1632.33,
+    "comissao": 2850.57
+  },
+  {
+    "nome": "Calebe Santos",
+    "dataAdmissao": "2024-02-24T05:01:32.9072946-03:00",
+    "salario": 2663.14,
+    "comissao": 1723.87
+  },
+  {
+    "nome": "Cecília Reis",
+    "dataAdmissao": "2023-05-15T12:59:34.7205432-03:00",
+    "salario": 1814.93,
+    "comissao": 2101.12
+  },
+  {
+    "nome": "Janaína Albuquerque",
+    "dataAdmissao": "2024-05-02T13:10:12.2083212-03:00",
+    "salario": 1308.76,
+    "comissao": 1246.07
+  }
+]

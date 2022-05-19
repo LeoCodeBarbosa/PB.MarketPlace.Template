@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using Bogus;
 using Bogus.Extensions.Brazil;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
+using Newtonsoft.Json.Serialization;
 
 namespace Worker
 {
@@ -16,16 +18,18 @@ namespace Worker
 
         static void Main(string[] args)
         {
-            GerarJsonCrud();
+            var settingIgnore = new JsonSerializerSettings { ContractResolver = new DynamicContractResolver("id", "dataInclusao", "dataAlteracao") };
+            GerarJsonCrud("Input", settingIgnore);
+            GerarJsonCrud("Output");
             GerarJsonWroker();
         }
 
-        public static string GerarJson(object obj)
+        public static string GerarJson(object obj, JsonSerializerSettings serializerSettings = null)
         {
-            return JValue.Parse(JsonConvert.SerializeObject(obj)).ToString(Formatting.Indented);
+            return JValue.Parse(JsonConvert.SerializeObject(obj, serializerSettings)).ToString(Formatting.Indented);
         }
 
-        public static void GerarJsonCrud()
+        public static void GerarJsonCrud(string fileName, JsonSerializerSettings serializerSettings = null)
         {
             //DEV 1 - INPUT CARGA - CRUD VENDEDOR
             var vendedores = new Faker<VendedorBaseJson>("pt_BR").CustomInstantiator(_faker => new VendedorBaseJson(_faker)).Generate(NumInputCarga);
@@ -39,10 +43,10 @@ namespace Worker
             //DEV 4 - INPUT CARGA - CRUD CLIENTE
             var clientes = new Faker<VendedorBaseJson>("pt_BR").CustomInstantiator(_faker => new VendedorBaseJson(_faker)).Generate(NumInputCarga);
 
-            System.IO.File.WriteAllText(Path + "/vendedoresInputCarga.json", GerarJson(vendedores));
-            System.IO.File.WriteAllText(Path + "/gerentesInputCarga.json", GerarJson(gerentes));
-            System.IO.File.WriteAllText(Path + "/fornecedoresInputCarga.json", GerarJson(fornecedores));
-            System.IO.File.WriteAllText(Path + "/clientesInputCarga.json", GerarJson(clientes));
+            System.IO.File.WriteAllText(Path + $"/vendedores{fileName}.json", GerarJson(vendedores, serializerSettings));
+            System.IO.File.WriteAllText(Path + $"/gerentes{fileName}.json", GerarJson(gerentes, serializerSettings));
+            System.IO.File.WriteAllText(Path + $"/fornecedores{fileName}.json", GerarJson(fornecedores, serializerSettings));
+            System.IO.File.WriteAllText(Path + $"/clientes{fileName}.json", GerarJson(clientes, serializerSettings));
         }
 
         public static void GerarJsonWroker()
@@ -223,4 +227,24 @@ namespace Worker
         public List<VendedorBaseJson> Vendedores { get; set; }
     }
     #endregion
+
+    public class DynamicContractResolver : DefaultContractResolver
+    {
+        private readonly string[] props;
+
+        public DynamicContractResolver(params string[] prop)
+        {
+            this.props = prop;
+        }
+
+        protected override IList<JsonProperty> CreateProperties(Type type, MemberSerialization memberSerialization)
+        {
+            IList<JsonProperty> retval = base.CreateProperties(type, memberSerialization);
+
+            // return all the properties which are not in the ignore list
+            retval = retval.Where(p => !this.props.Contains(p.PropertyName)).ToList();
+
+            return retval;
+        }
+    }
 }
